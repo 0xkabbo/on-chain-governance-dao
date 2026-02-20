@@ -1,0 +1,8 @@
+{
+  "name": "on-chain-governance-dao",
+  "version": "1.0.0",
+  "description": "Full-stack on-chain governance repository",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
